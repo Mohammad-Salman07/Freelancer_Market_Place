@@ -1,0 +1,6 @@
+127.0.0.1 - - [05/Jul/2025:18:21:02 +0530] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [05/Jul/2025:18:24:02 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [05/Jul/2025:18:24:08 +0530] "GET /Freelancer_MarketPlcae/index.jsp HTTP/1.1" 200 8564
+0:0:0:0:0:0:0:1 - - [05/Jul/2025:18:24:14 +0530] "GET /Freelancer_MarketPlcae/admin/login.jsp HTTP/1.1" 200 5113
+0:0:0:0:0:0:0:1 - - [05/Jul/2025:18:24:30 +0530] "POST /Freelancer_MarketPlcae/AdminLoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Jul/2025:18:24:36 +0530] "GET /Freelancer_MarketPlcae/admin/dashboard.jsp HTTP/1.1" 200 6912
